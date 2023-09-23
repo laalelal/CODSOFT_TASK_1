@@ -1,4 +1,4 @@
-# CODSOFT_TASK_1
+# INFOBYTE_OASIS_TASK_1
 java Programming internship
 # Number Guessing Game in Java
 
